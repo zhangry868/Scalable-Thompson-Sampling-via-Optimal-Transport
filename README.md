@@ -24,4 +24,4 @@ This code is based on Python 2.7, with the main dependencies being [TensorFlow==
 
 ## Acknowledgement
 
-This implementation is based on [Deep Bayesian bandits library](https://github.com/tensorflow/models/tree/master/research/deep_contextual_bandits). We thank Carlos Riquelme et al. for making their code public.
+This implementation is based on [Deep Bayesian bandits library](https://github.com/tensorflow/models/tree/master/research/deep_contextual_bandits). We thank Riquelme et al. for making their code public.
