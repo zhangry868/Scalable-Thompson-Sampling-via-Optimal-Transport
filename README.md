@@ -1,6 +1,6 @@
 # Scalable Thompson Sampling via Optimal Transport
 
-The **Particle-Interactive Thompson sampling** (\pi-TS) uses distribution optimization techniques to approximate the posterior distribution is Thompson sampling, solved via Wasserstein gradient flows. Our approach is scalable and does not make explicit distribution assumptions on posterior approximations. This repository contains source code to reproduce the results presented in the paper [Scalable Thompson Sampling via Optimal Transport](https://users.cs.duke.edu/~ryzhang/Ruiyi/OT_TS.pdf) (AISTATS 2019):
+The **Particle-Interactive Thompson sampling** (\pi-TS) uses distribution optimization techniques to approximate the posterior distribution in Thompson sampling, solved via Wasserstein gradient flows. Our approach is scalable and does not make explicit distribution assumptions on posterior approximations. This repository contains source code to reproduce the results presented in the paper [Scalable Thompson Sampling via Optimal Transport](https://users.cs.duke.edu/~ryzhang/Ruiyi/OT_TS.pdf) (AISTATS 2019):
 
 ```
 @inproceedings{Zhang_pi_TS,
