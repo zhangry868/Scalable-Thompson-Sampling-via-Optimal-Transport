@@ -19,7 +19,7 @@ We provides the codes of proposed methods and produicing figures:
 
 ## Dependencies
 
-This code is based on Python 2.7, with the main dependencies being [TensorFlow==1.5.0](https://www.tensorflow.org/) and [Theano==0.9.0]
+This code is based on Python 2.7, with the main dependencies being [TensorFlow==1.5.0](https://www.tensorflow.org/) and [Theano==0.9.0](http://deeplearning.net/software/theano/)
 
 
 ## Acknowledgement
