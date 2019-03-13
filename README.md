@@ -54,6 +54,10 @@ Training BootRMS-2-bnn for 100 steps...
 
 ```
 
+## Evaluation
+
+Please see the plot for more details.
+
 ## Acknowledgement
 
 This implementation is based on [Deep Bayesian bandits library](https://github.com/tensorflow/models/tree/master/research/deep_contextual_bandits). We thank Riquelme et al. for making their code public.
