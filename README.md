@@ -21,6 +21,40 @@ We provides the codes of proposed methods and produicing figures:
 
 This code is based on Python 2.7, with the main dependencies being [TensorFlow==1.5.0](https://www.tensorflow.org/) and [Theano==0.9.0](http://deeplearning.net/software/theano/)
 
+## Experimental Codes
+### Dataset ###
+Download the required datasets with the following cmd:
+```
+python prepare_data.py
+```
+
+### Training ###
+
+Train the model on the data.
+```
+source $dataset$.sh
+```
+
+Training log is printed as below:
+```
+Initializing model BBB-bnn.
+Initializing model NeuralLinear-bnn.
+Initializing model DGF-bnn.
+Successfully initialized the models!
+Initializing model BootRMS-0-bnn.
+Initializing model BootRMS-1-bnn.
+Initializing model BootRMS-2-bnn.
+Training SVGD-bnn for 100 steps...
+Training BBB-bnn for 100 steps...
+Training NeuralLinear-bnn for 100 steps...
+Training DGF-bnn for 100 steps...
+Training BootRMS-0-bnn for 100 steps...
+Training BootRMS-1-bnn for 100 steps...
+Training BootRMS-2-bnn for 100 steps...
+...
+
+```
+## Reproduce paper figure results
 
 ## Acknowledgement
 
