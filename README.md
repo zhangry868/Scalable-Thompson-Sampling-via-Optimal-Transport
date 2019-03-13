@@ -14,7 +14,7 @@ The **Particle-Interactive Thompson sampling** (\pi-TS) uses distribution optimi
 ## Contents
 We provides the codes of proposed methods and produicing figures: 
 1. [Dependencies](#dependencies)
-2. [Experimental Codes](#Experimental Codes)
+2. [Experimental Codes](#Experimental-Codes)
 
 ## Dependencies
 
