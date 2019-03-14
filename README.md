@@ -56,7 +56,7 @@ Training BootRMS-2-bnn for 100 steps...
 
 ## Evaluation
 
-Please see the plot for more details.
+The results will be saved in a \*.npz file, and the figures are based on these files.
 
 ## Acknowledgement
 
